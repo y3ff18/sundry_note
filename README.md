@@ -7,4 +7,6 @@ windows下提权集合 https://github.com/SecWiki/windows-kernel-exploits
 红队学习路线以及资料 https://github.com/we1h0/redteam-tips  
 红队常用漏洞整理  https://github.com/r0eXpeR/redteam_vul  
 src域名收集  https://github.com/LangziFun/LangSrcCurise  
+记录github上上面出现的poc和exp  https://github.com/ycdxsb/PocOrExp_in_Github  
+7kb的红队作战手册  https://github.com/7kbstorm/RedTeamer  
 
