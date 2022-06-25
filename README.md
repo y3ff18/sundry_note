@@ -12,3 +12,4 @@ src域名收集  https://github.com/LangziFun/LangSrcCurise
 
 web安全-操作系统梳理  https://www.freebuf.com/articles/web/332344.html  
 SSTI模板注入  https://www.freebuf.com/articles/web/331653.html  
+前端webpack打包检测工具 https://github.com/rtcatc/Packer-Fuzzer  
